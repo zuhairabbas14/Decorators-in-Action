@@ -1,0 +1,12 @@
+func4 call 1 executed in 0.4016 sec
+Name: func4
+Type: <class 'function'>
+Sign: ('lst', 'filtered_list')
+Args: positional ([1, 7, 12, 2, 10, 99],) key=worded {}
+Doc: None
+Source: @Decorator
+def func4(lst):
+    time.sleep(0.4)
+    filtered_list = list(filter(lambda num: (num > 7), lst))
+    return filtered_list
+
