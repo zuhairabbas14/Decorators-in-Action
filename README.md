@@ -1,7 +1,7 @@
 # Decorators-in-Action
-[F21] Software Design with Python - Assignment 1
+[F21] - Software Design with Python
 
-In this assignment, we try to exhaust all the characteristics of python.
+In this project, we try to exhaust all the characteristics of python.
 
 ### USAGE:
 $ python main.py 
